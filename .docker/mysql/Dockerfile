@@ -1,0 +1,2 @@
+ARG IMAGE_NAME=mysql
+FROM ${IMAGE_NAME}:5.7
